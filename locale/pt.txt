@@ -1,0 +1,57 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_29E28861_27DC_B87C_41B2_7B7739D50481.source = https://wa.me/5585984460649
+LinkBehaviour_0E483662_1F81_633D_41AE_70CF31ADABE5.source = https://wa.me/5585984460649
+LinkBehaviour_29E4E870_27DC_B85C_41A4_245D8784AD18.source = https://www.cetour360.com.br/
+LinkBehaviour_010106C0_14BF_DD55_41B1_F4B0E3B99354.source = https://www.cetour360.com.br/
+PopupWebFrameBehaviour_0EBFD141_1F81_E17F_41B7_AA574D55B670.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127382.8701035766!2d-38.69938796461043!3d-3.8712478085686852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7530eba2ddf97%3A0x20fdbafe4e97b5ab!2sShopping%20Feira%20Center%20Maracana%C3%BA!5e0!3m2!1spt-BR!2sbr!4v1705624993832!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_29E52863_27DC_B843_418C_0B305F0914F7.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127382.8701035766!2d-38.69938796461043!3d-3.8712478085686852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7530eba2ddf97%3A0x20fdbafe4e97b5ab!2sShopping%20Feira%20Center%20Maracana%C3%BA!5e0!3m2!1spt-BR!2sbr!4v1705624993832!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_1BE916F9_14A3_DD37_41B0_715034C125AD.mp3Url = media/audio_0490F115_14A3_F4FF_41A2_EAAA0AE32117_pt.mp3
+audiores_11A134EC_1E80_A706_41BB_8516611EF23A.mp3Url = media/audio_10EB1258_1E87_630E_41AE_B77619F4CC54_pt.mp3
+
+### Title
+panorama_08110CA1_049E_FEEC_4191_8F3C269BCACC.label = FRENTE
+panorama_08EB32D6_049F_8A54_4186_0E6EADF9B880.label = INTERNO 01
+panorama_0F14614C_049F_87B4_416D_FB549A07F8CE.label = INTERNO 02
+album_29C06070_2453_626A_4197_27CA2D1F1264_0.label = Imagem do WhatsApp de 2024-01-19 à(s) 21.07.46_6208d8bf
+album_29C06070_2453_626A_4197_27CA2D1F1264_1.label = Imagem do WhatsApp de 2024-01-19 à(s) 21.07.46_f13a50a0
+album_29C06070_2453_626A_4197_27CA2D1F1264_2.label = Imagem do WhatsApp de 2024-01-19 à(s) 21.07.47_6c3c355a
+album_29C06070_2453_626A_4197_27CA2D1F1264_3.label = Imagem do WhatsApp de 2024-01-19 à(s) 21.18.03_b2116732
+album_29C06070_2453_626A_4197_27CA2D1F1264_4.label = Imagem do WhatsApp de 2024-01-19 à(s) 21.23.22_abf90b59
+panorama_0F158034_049F_85D4_418F_A3B823BB6A44.label = LATERAL MOT
+panorama_0F152329_049F_8BFC_4191_F00AA57EA17C.label = LATERAL PAS
+panorama_0F15407B_049F_865D_4181_70008EAC7CE2.label = TRASEIRA
+album_29C06070_2453_626A_4197_27CA2D1F1264.label = Álbum de Fotos Imagem do WhatsApp de 2024-01-19 à(s) 21.07.46_6208d8bf
+
+## Popup
+
+### Body
+htmlText_00B6C2F2_1994_47F8_4178_38EC061BB8A5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Este é o modelo intermediário do SUV compacto da Jeep, que tem sido o grande destaque em vendas nesta categoria.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A ergonomia do console central é perfeita, proporcionando um excelente conforto ao motorista com seu carregador por indução bem posicionado e um confortável apoio de braço.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">No coração do Renegade Longitude 2024, temos um motor 1.3 turbo com 185 cavalos de potência, acoplado a um câmbio de 6 velocidades. Este conjunto mecânico oferece retomadas vigorosas e um comportamento dinâmico balanceado para uso na cidade e na estrada. Além disso, este modelo apresenta um consumo de combustível baixo, especialmente quando conduzido de maneira moderada.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O visual externo do Renegade Longitude, que recebeu um facelift há quase dois anos, mantém-se inalterado. Ele se destaca por seus faróis full LED, rodas de 18 polegadas e um porta-malas com capacidade para 320 litros.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em termos de segurança, o Renegade Longitude 2024 está bem equipado com seis airbags, freio de estacionamento eletrônico e freios a disco nas quatro rodas. O modelo também vem com um sistema ADAS parcial, que inclui frenagem de emergência e assistência de manutenção de faixa com correção ativa do volante.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Viva uma nova aventura com o Novo Jeep Renegade. Sinta a força dos 185 cv de potência e a força do motor T270 e surpreenda-se.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_00B602F1_1994_47F8_41A1_515778429C5D.title = Jeep Renegade Longitude 2024
+
+## Skin
+
+### Image
+Image_0277147E_14A5_7D2D_4158_8AC433C3E32A_mobile.url = skin/Image_0277147E_14A5_7D2D_4158_8AC433C3E32A_mobile_pt.png
+Image_0277147E_14A5_7D2D_4158_8AC433C3E32A.url = skin/Image_0277147E_14A5_7D2D_4158_8AC433C3E32A_pt.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = TOUR 360 PERSONALIZADO - RENEGADE
+
+### Title
+tour.name = TOUR 360- RENEGADE LONGITUDE T270
